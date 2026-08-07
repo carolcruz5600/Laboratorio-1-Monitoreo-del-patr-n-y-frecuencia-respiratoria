@@ -49,3 +49,5 @@ Para la adquisición de la señal se empleó una tarjeta National Instruments US
 
 Una vez digitalizada, la señal fue almacenada en MATLAB para su procesamiento posterior. Debido a la presencia de pequeñas fluctuaciones asociadas al ruido electrónico y a la respuesta dinámica del sensor, se implementó un filtro de media móvil mediante programación, con el objetivo de suavizar la señal antes de realizar la detección de respiraciones y el análisis en el dominio de la frecuencia mediante la Transformada Rápida de Fourier (FFT).
 
+### **Resultados**
+
