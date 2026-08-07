@@ -51,3 +51,4 @@ Una vez digitalizada, la señal fue almacenada en MATLAB para su procesamiento p
 
 ### **Resultados**
 
+#### Sistema de Adquisición: [lab1.m](lab1.m)
