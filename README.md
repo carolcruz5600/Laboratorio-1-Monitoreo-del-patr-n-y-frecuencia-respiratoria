@@ -103,7 +103,7 @@ A pesar de esta diferencia, ambos métodos evidencian el comportamiento periódi
 Se muestra la señal respiratoria después de aplicar el filtro de media móvil y el resultado del algoritmo de detección de respiraciones. La curva azul corresponde a la señal filtrada, mientras que los marcadores rojos representan los máximos locales identificados por el algoritmo como eventos respiratorios. Se observa que, tras un breve período inicial de estabilización del sensor, la señal presenta un comportamiento periódico con picos claramente definidos, los cuales corresponden a las exhalaciones detectadas. En total se identificaron cinco respiraciones durante el intervalo de adquisición de 30 segundos, obteniéndose una frecuencia respiratoria de 10 respiraciones por minuto. Aunque el algoritmo detectó correctamente la mayoría de los ciclos respiratorios, también se evidencia una variación en la amplitud de los picos, atribuida a la respuesta dinámica del sensor MQ-135 y a las diferencias en la intensidad de cada exhalación. En general, la señal filtrada permitió distinguir adecuadamente el patrón respiratorio y facilitó el cálculo de la frecuencia respiratoria mediante el conteo de máximos locales.
 
 <p align="center">
-  <img width="1118" height="746" alt="image" src="https://github.com/user-attachments/assets/87794400-e7c1-4145-a524-e276dc256348" />
+  <img width="500" height="332" alt="image" src="https://github.com/user-attachments/assets/87794400-e7c1-4145-a524-e276dc256348" />
 </p>
 
 <p align="center">
