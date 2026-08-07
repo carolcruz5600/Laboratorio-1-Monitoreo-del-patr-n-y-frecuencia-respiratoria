@@ -33,10 +33,9 @@ Para el desarrollo de la práctica se seleccionó un sensor semiconductor de gas
 
 Con base en la revisión de la literatura, se seleccionó el sensor MQ-135 para el desarrollo del sistema de monitoreo respiratorio debido a su disponibilidad, bajo costo y facilidad de integración con sistemas de adquisición de datos. Aunque este dispositivo fue diseñado originalmente para la detección de la calidad del aire, su capacidad para responder a variaciones en la concentración de dióxido de carbono (CO₂), amoníaco (NH₃), óxidos de nitrógeno (NOₓ), alcohol, humo y otros compuestos volátiles permite emplearlo en aplicaciones experimentales relacionadas con el monitoreo de la respiración.
 
-Fig. 1.
-
 <p align="center">
   <img src="https://github.com/carolcruz5600/Laboratorio-1-Monitoreo-del-patr-n-y-frecuencia-respiratoria/blob/main/SENSOR-DETECTOR-DE-GAS-MQ-135.png?raw=true" width="400" alt="Sensor MQ-135">
+  Fig. 1.
 </p>
 
 El principio de funcionamiento del MQ-135 se basa en un material semiconductor de dióxido de estaño (SnO₂), cuya resistencia eléctrica cambia cuando entra en contacto con diferentes concentraciones de gases. En condiciones normales, el sensor mantiene una resistencia determinada; sin embargo, cuando aumenta la concentración de los gases detectables presentes en el aire exhalado, dicha resistencia se modifica, generando una variación en el voltaje de salida. Esta señal analógica puede ser adquirida y procesada para identificar los ciclos de inspiración y espiración.
