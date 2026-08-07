@@ -35,6 +35,9 @@ Con base en la revisión de la literatura, se seleccionó el sensor MQ-135 para 
 
 <p align="center">
   <img src="https://github.com/carolcruz5600/Laboratorio-1-Monitoreo-del-patr-n-y-frecuencia-respiratoria/blob/main/SENSOR-DETECTOR-DE-GAS-MQ-135.png?raw=true" width="400" alt="Sensor MQ-135">
+</p>
+
+<p align="center">
   Fig. 1.
 </p>
 
