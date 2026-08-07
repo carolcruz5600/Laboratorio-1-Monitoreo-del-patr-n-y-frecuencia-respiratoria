@@ -36,7 +36,7 @@ Con base en la revisión de la literatura, se seleccionó el sensor MQ-135 para 
 Fig. 1.
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/2fff9722-697b-4ad4-9ccb-765b041fa397" alt="Montaje experimental](https://github.com/carolcruz5600/Laboratorio-1-Monitoreo-del-patr-n-y-frecuencia-respiratoria/blob/main/SENSOR-DETECTOR-DE-GAS-MQ-135.png)" width="500">
+  <img src="https://github.com/carolcruz5600/Laboratorio-1-Monitoreo-del-patr-n-y-frecuencia-respiratoria/blob/main/SENSOR-DETECTOR-DE-GAS-MQ-135.png?raw=true" width="400" alt="Sensor MQ-135">
 </p>
 
 El principio de funcionamiento del MQ-135 se basa en un material semiconductor de dióxido de estaño (SnO₂), cuya resistencia eléctrica cambia cuando entra en contacto con diferentes concentraciones de gases. En condiciones normales, el sensor mantiene una resistencia determinada; sin embargo, cuando aumenta la concentración de los gases detectables presentes en el aire exhalado, dicha resistencia se modifica, generando una variación en el voltaje de salida. Esta señal analógica puede ser adquirida y procesada para identificar los ciclos de inspiración y espiración.
